@@ -1,2 +1,2 @@
-trabalho de escola, nada muito sobre isso
-<img width="450" height="894" alt="image" src="https://github.com/user-attachments/assets/71e2ba7c-1437-4101-a0dd-23029ac46c21" />
+um trabalho escolar que fala sobre o consumismo feito em html, css e js
+<img width="1331" height="874" alt="image" src="https://github.com/user-attachments/assets/2d9275bf-0a23-471e-bc63-b13d6aa7c304" />
